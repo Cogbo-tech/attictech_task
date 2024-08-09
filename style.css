@@ -5,7 +5,7 @@
 }
 body {
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
-  color: rgb(9, 9, 60);
+  color: #333d79ff;
 }
 
 /* header styling */
@@ -19,6 +19,7 @@ nav {
   box-shadow: 0 0 20px 0 white;
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
+  color: white;
 }
 
 i {
@@ -77,6 +78,7 @@ i {
     background-color: #333d79ff;
     display: flex;
     flex-direction: column;
+    color: white;
     align-items: center;
     width: 100%;
     /* border: 1px solid pink; */
@@ -348,7 +350,7 @@ h1 {
 
 #footer div span a {
   text-decoration: none;
-  color: rgba(66, 66, 116, 0.5);
+  color: #fbeaeb;
   margin-left: 2%;
   margin-top: 2%;
   cursor: pointer;
